@@ -23,4 +23,7 @@ Welcome to House Predictions, an advanced machine learning project designed to p
 
 `python app.py`
 
+[Ouvrir dans Google Colab](https://colab.research.google.com/drive/1vCghZT5fMeB1XA_YGPMdgGKMxFifhlH1?usp=sharing)
+
+
 Happy predicting!
